@@ -1,0 +1,16 @@
+C:\Users\Braki\Desktop\TECNICO\farmacia1\farmacia1\bin\Debug\farmacia1.exe.config
+C:\Users\Braki\Desktop\TECNICO\farmacia1\farmacia1\bin\Debug\farmacia1.exe
+C:\Users\Braki\Desktop\TECNICO\farmacia1\farmacia1\bin\Debug\farmacia1.pdb
+C:\Users\Braki\Desktop\TECNICO\farmacia1\farmacia1\bin\Debug\farmacia1.xml
+C:\Users\Braki\Desktop\TECNICO\farmacia1\farmacia1\obj\Debug\formulario.Form1.resources
+C:\Users\Braki\Desktop\TECNICO\farmacia1\farmacia1\obj\Debug\formulario.Resources.resources
+C:\Users\Braki\Desktop\TECNICO\farmacia1\farmacia1\obj\Debug\farmacia1.vbproj.GenerateResource.Cache
+C:\Users\Braki\Desktop\TECNICO\farmacia1\farmacia1\obj\Debug\farmacia1.exe
+C:\Users\Braki\Desktop\TECNICO\farmacia1\farmacia1\obj\Debug\farmacia1.xml
+C:\Users\Braki\Desktop\TECNICO\farmacia1\farmacia1\obj\Debug\farmacia1.pdb
+C:\Users\Braki\Desktop\TECNICO\farmacia1\farmacia1\obj\Debug\formulario.Form2.resources
+C:\Users\Braki\Desktop\TECNICO\farmacia1\farmacia1\obj\Debug\formulario.Form13.resources
+C:\Users\Braki\Documents\GitHub\farmacia1\farmacia1\bin\Debug\farmacia1.exe.config
+C:\Users\Braki\Documents\GitHub\farmacia1\farmacia1\obj\Debug\farmacia1.exe
+C:\Users\Braki\Documents\GitHub\farmacia1\farmacia1\obj\Debug\farmacia1.xml
+C:\Users\Braki\Documents\GitHub\farmacia1\farmacia1\obj\Debug\farmacia1.pdb
